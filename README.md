@@ -49,6 +49,25 @@ Screenshots of the Food Ordering System overview.
 ## 📌 Screenshot 9
 ![Screenshot 9](overview/Image9.png)
 
+## 📌 Screenshot 10
+![Screenshot 9](overview/a1.jpeg)
+
+## 📌 Screenshot 11
+![Screenshot 9](overview/a2.jpeg)
+
+## 📌 Screenshot 12
+![Screenshot 9](overview/a3.jpeg)
+
+## 📌 Screenshot 13
+![Screenshot 9](overview/a4.jpeg)
+
+## 📌 Screenshot 14
+![Screenshot 9](overview/a5.jpeg)
+
+## 📌 Screenshot 15
+![Screenshot 9](overview/a6.jpeg)
+
+
 <p align="center">
   <a href="https://laravel.com" target="_blank">
     <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
